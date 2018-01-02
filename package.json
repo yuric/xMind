@@ -1,0 +1,16 @@
+{
+  "name": "xMind",
+  "version": "1.1.0",
+  "description": "xMinds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "coxaqui",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^4.0.0",
+    "ethereumjs-wallet": "^0.6.0",
+    "truffle-wallet-provider": "0.0.5"
+  }
+}
